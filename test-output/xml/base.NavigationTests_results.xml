@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ChromeTest"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.284">
+  <properties />
+  
+  
+            <testcase name="testSwitchTab" time="2.588" classname="base.NavigationTests" />
+                <testcase name="testNavigator" time="1.696" classname="base.NavigationTests" />
+      
+</testsuite>
